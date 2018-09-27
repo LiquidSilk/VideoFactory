@@ -1,0 +1,6 @@
+framework module YQLocalStorage {
+  umbrella header "YQLocalStorage-umbrella.h"
+
+  export *
+  module * { export * }
+}

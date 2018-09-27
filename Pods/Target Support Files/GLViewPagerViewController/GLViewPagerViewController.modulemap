@@ -1,0 +1,6 @@
+framework module GLViewPagerViewController {
+  umbrella header "GLViewPagerViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

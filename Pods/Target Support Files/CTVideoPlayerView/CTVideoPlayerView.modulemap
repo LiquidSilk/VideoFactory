@@ -1,0 +1,6 @@
+framework module CTVideoPlayerView {
+  umbrella header "CTVideoPlayerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

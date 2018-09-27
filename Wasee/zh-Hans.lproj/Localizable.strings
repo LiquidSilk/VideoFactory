@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Wasee
+
+  Created by 陈忠杰 on 2017/7/20.
+  Copyright © 2017年 陈忠杰. All rights reserved.
+*/
+"live"                              = "新建直播";
+"navigation_title"                  = "WaSee";
+
+"home_tabview_con_live"             = "首页";
+"home_tabview_con_me"               = "我的";
+
+"live_ready_view_con_title_push"    = "请输入rtmp服务器的地址：";
+
+"live_error"                        = "错误";
+"live_error_push"                   = "推流失败，请重试(%ld)";
+"live_error_network_slow"           = "当前网络环境较差，建议暂停直播";
+"live_alert_title_close"            = "关闭直播";
+"live_alert_message_close"          = "选择暂停直播还是直播结束直播？（结束后无法继续）";
+"live_alert_btn_pause"              = "暂停";
+"live_alert_btn_stop"               = "结束";
+
+
+
+"login_textfield_phone"             = "电话号码";
+"login_textfield_password"          = "请输入密码";
+"login_textfield_verify"            = "请输入右图的计算结果";
+"login_textfield_mobile_verify"     = "请输入手机验证码";
+"login_btn_get_mobile_verify"       = "获取验证码";
+"login_btn_switch_use_mobile_verify"= "手机验证码登录";
+"login_btn_switch_use_password"     = "手机密码登录";
+"login_btn"                         = "登录";
+"login_wx_btn"                      = "微信登录";
+"login_other_btn"                   = "其他方式登录";
+
+"home_tab_name1"                    = "即将直播";
+"home_tab_name2"                    = "正在直播";
+"home_label_name"                   = "%@的直播间";
+
+"new_live_room_title"               = "提示：请在微信公众号内新建编辑直播";
+"new_live_room_title2"              = "使用说明：";
+"new_live_room_desc1"               = "打开微信管住蛙色官方公众号：WaseeVR；";
+"new_live_room_desc2"               = "进入公众号，点击底部导航“蛙色直播”";
+"new_live_room_desc3"               = "点击个人中心——我的直播间——新建直播，编辑完成后返回APP进行直播";
+
+"about_title"                       = "关于";
+"about_menu_cache"                  = "清空缓存";
+"about_menu_message"                = "系统消息";
+"about_menu_version"                = "版本";
+"about_menu_rule"                   = "蛙色直播管理条例";
+"about_menu_logout"                 = "退出登录";
+
+
+
+"toast_request_too_much"            = "请求过于频繁";
+"toast_require_phone_number"        = "手机号不正确";
+"toast_cache_cleared"               = "缓存清理完成";
+
+
+
+
+
+
+"liveDO_live_status_wait"           = "直播";
+"liveDO_live_status_living"         = "正在直播";
+"liveDO_live_status_error"          = "直播异常";
+"liveDO_live_status_stop"           = "直播结束";
+"liveDO_live_status_pause"          = "暂停";
+
+"liveDO_present_send"               = "送出";
+
+
+
+"ok"                                = "确定";

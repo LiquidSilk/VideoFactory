@@ -1,0 +1,6 @@
+framework module AlivcLiveVideo {
+  umbrella header "AlivcLiveVideo.h"
+
+  export *
+  module * { export * }
+}

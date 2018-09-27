@@ -1,0 +1,6 @@
+framework module LUNSegmentedControl {
+  umbrella header "LUNSegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

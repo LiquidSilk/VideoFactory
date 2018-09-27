@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  Wasee
+
+  Created by 陈忠杰 on 2017/7/19.
+  Copyright © 2017年 陈忠杰. All rights reserved.
+*/
+
+CFBundleDisplayName = "Wasee Live";
+
+NSPhotoLibraryUsageDescription = "Used to open photos";
+NSCameraUsageDescription = "Used to open camera";

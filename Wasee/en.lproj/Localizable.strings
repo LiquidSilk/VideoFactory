@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Wasee
+
+  Created by 陈忠杰 on 2017/7/20.
+  Copyright © 2017年 陈忠杰. All rights reserved.
+*/
+"live"                      = "live";
+
+"home_tabview_con_live"     = "home";
+"home_tabview_con_me"       = "me";
+
+"live_ready_view_con_title_push"    = "请输入rtmp服务器的地址：";
+
+
+
+"toast_request_too_much"            = "请求过于频繁";

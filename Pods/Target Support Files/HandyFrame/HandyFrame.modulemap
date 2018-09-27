@@ -1,0 +1,6 @@
+framework module HandyFrame {
+  umbrella header "HandyFrame-umbrella.h"
+
+  export *
+  module * { export * }
+}

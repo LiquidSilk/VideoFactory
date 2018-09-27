@@ -1,0 +1,134 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - CTMediator (18)
+  - CTPersistance (181):
+    - CTMediator
+    - SQLCipher
+  - CTVideoPlayerView (1.4.5):
+    - AFNetworking
+    - CTPersistance
+    - HandyFrame
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - GLViewPagerViewController (1.0.2)
+  - GPUImage (0.1.7)
+  - HandyFrame (1.2.0)
+  - HYBMasonryAutoCellHeight (2.0.1):
+    - Masonry (~> 0.6)
+  - IQKeyboardManager (6.0.4)
+  - KVOController (1.2.0)
+  - lottie-ios (2.5.0)
+  - LUNSegmentedControl (1.0.7)
+  - Masonry (0.6.4)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.3)
+  - PhotoTweaks (1.0.3)
+  - ReactiveObjC (3.1.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SocketRocket (0.5.1)
+  - SQLCipher (3.4.2):
+    - SQLCipher/standard (= 3.4.2)
+  - SQLCipher/common (3.4.2)
+  - SQLCipher/standard (3.4.2):
+    - SQLCipher/common
+  - SSZipArchive (2.1.3)
+  - Toast (3.1.0)
+  - TZImagePickerController (2.1.6)
+  - UMengUShare/Core (6.4.8.2):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.8.2)
+  - UMengUShare/Social/ReducedQQ (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/UI (6.4.8.2):
+    - UMengUShare/Core
+  - YQLocalStorage (0.0.1)
+  - ZFPlayer (3.0.9.1):
+    - ZFPlayer/Core (= 3.0.9.1)
+  - ZFPlayer/AVPlayer (3.0.9.1):
+    - ZFPlayer/Core
+  - ZFPlayer/ControlView (3.0.9.1):
+    - ZFPlayer/Core
+  - ZFPlayer/Core (3.0.9.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - CTVideoPlayerView
+  - FMDB
+  - GLViewPagerViewController (~> 1.0.1)
+  - GPUImage
+  - HYBMasonryAutoCellHeight (= 2.0.1)
+  - IQKeyboardManager
+  - KVOController
+  - lottie-ios
+  - LUNSegmentedControl
+  - MJExtension
+  - MJRefresh
+  - PhotoTweaks
+  - ReactiveObjC
+  - SDWebImage (~> 3.8)
+  - SocketRocket
+  - SSZipArchive
+  - Toast (~> 3.1.0)
+  - TZImagePickerController
+  - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/UI
+  - YQLocalStorage
+  - ZFPlayer (~> 3.0.9)
+  - ZFPlayer/AVPlayer (~> 3.0.9)
+  - ZFPlayer/ControlView (~> 3.0.9)
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  CTMediator: 420e9d90f9f1fd740caf2238ed7ed64dc621c5b7
+  CTPersistance: f566fe7cdab679bf3ae9aa67c82907c9a867011e
+  CTVideoPlayerView: b3cd14620d68127cb9ea5d61d38a7ce0d6fed332
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  GLViewPagerViewController: 8024347deb3d0d0e9d07360a334d9e4b43c86e41
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
+  HYBMasonryAutoCellHeight: 9296583777080d32ba6257f55e52b7334dd481fc
+  IQKeyboardManager: 29514134ef0334a6fa33cf4eee11c36c064baeaf
+  KVOController: d72ace34afea42468329623b3379ab3cd1d286b6
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  LUNSegmentedControl: f868b1ea740f9917f05dbcb4cded85c33ec606e6
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  PhotoTweaks: 17a448f451872fd9c3cc65ec5ca125ccd1b48d11
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SQLCipher: f9fcf29b2e59ced7defc2a2bdd0ebe79b40d4990
+  SSZipArchive: 51a800ebb77f95a8329b6ced1faaff394b47f509
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  TZImagePickerController: bc25e933c9d970a622d052f0d4de16202bbcd863
+  UMengUShare: 370d180101e13ee0227ae657ab119ba97243d2b3
+  YQLocalStorage: 4217e997d0a6793b9fbea11da820751189f8ab38
+  ZFPlayer: 8e5936c6b5ec971f105431a7764acff8d16b5fa4
+
+PODFILE CHECKSUM: 27ca072ae1917fe2a2080ad08e91991fe9c637d0
+
+COCOAPODS: 1.4.0

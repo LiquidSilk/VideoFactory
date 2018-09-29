@@ -12,6 +12,10 @@ Video Factory是什么?
 * 视频添加贴图、水印
 * 视频滤镜
 
+![videoFactory](demo3.gif)
+![videoFactory](demo2.gif)
+![videoFactory](demo1.gif)
+
 有问题反馈
 -----
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
